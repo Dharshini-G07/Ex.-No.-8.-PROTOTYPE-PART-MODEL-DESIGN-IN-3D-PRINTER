@@ -46,7 +46,15 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3dc511dc-e902-49fb-bc01-ac2990283ac8)
+![image](https://github.com/user-attachments/assets/f9682d3d-8914-4039-afe5-90358ac092c7)
+
+![Screenshot 2025-05-20 173102](https://github.com/user-attachments/assets/000d2971-fe41-4781-bb6c-964e150321b3)
+
+![Screenshot 2025-05-20 173134](https://github.com/user-attachments/assets/0cd9bfb8-0f8f-4385-a4b8-8b0aad102171)
+
+![Screenshot 2025-05-20 173146](https://github.com/user-attachments/assets/854207b0-5046-4a13-8b9f-e4aab79a39b4)
+
+![Screenshot 2025-05-20 173232](https://github.com/user-attachments/assets/3f5a78e0-7f4f-4bd3-9252-ca510b421253)
 
 
 ### Name:Priyadharshini G
